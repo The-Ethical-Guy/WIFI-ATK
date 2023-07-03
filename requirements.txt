@@ -1,0 +1,6 @@
+scapy
+termcolor
+readline
+threading
+signal
+requests
