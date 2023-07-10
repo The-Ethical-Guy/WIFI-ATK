@@ -27,29 +27,30 @@ the <a href="https://www.youtube.com/@eblis-tools">youtube channel</a> and the
 
 # WIFI-ATK how to install and use
 
-
+```
 apt update
-
-
+```
+```
 apt install git
-
-
+```
+```
 git clone https://github.com/EBLIS-TOOLS/WIFI-ATK.git
-
-
+```
+```
 cd WIFI-ATK
-
+```
 
 # How to run the tool
 
-
+```
 apt install python3  
-
-
-pip3 install -r requirements.txt
-
-
-python3.11 wifi-atk.py
+```
+```
+pip install requirements.txt
+```
+```
+python3 wifi-atk.py
+```
 
 # Screenshot
 <img alt="wifi-atk" src="github/icons/sc.png" height="40%" width="100%" />
