@@ -14,7 +14,7 @@ This tool depends on some configuration in the Kali system like aircrack and net
 the <a href="https://www.youtube.com/@eblis-tools">youtube channel</a> and the
 <a href="https://t.me/EBLISTOOLScommunity">telegram channel</a>
  
-# What can this tool do? ?
+# What can this tool do ?
 
 <ul>
  <li>Man In The Middle Attack</li>
