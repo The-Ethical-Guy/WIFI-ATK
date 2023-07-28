@@ -1,10 +1,6 @@
 # Security Policy
 
 ## Supported Versions
- <ul>
- <li>Python Version 3.11.2</li>
- <li>Kali Version 2022.4</li>
- </ul>
 
 | Requirements   | Version            | Status             |
 | -------------- | ------------------ | ------------------ |
