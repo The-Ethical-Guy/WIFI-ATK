@@ -5,10 +5,10 @@
 This tool depends on some configuration in the Kali system like aircrack and netdiscover
 
 # SYSTEM REQUIREMENTS
- <ul>
- <li>Python Version 3.11.2</li>
- <li>Kali Version 2022.4</li>
- </ul>
+| Requirements   | Version            | Status             |
+| -------------- | ------------------ | ------------------ |
+| python         | 3.11.2             | :white_check_mark: |
+| Kali           | 2022.4             | :white_check_mark: |
  
 # Social media links
 the <a href="https://www.youtube.com/@eblis-tools">youtube channel</a> and the
