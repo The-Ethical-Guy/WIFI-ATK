@@ -1,4 +1,6 @@
 # Security Policy
+Hey, developer of the tool talking :) 
+> Don't worry, the tool doesn't violate any of your privacy or can be harmful. This tool was created to test network penetration and make sure there are no vulnerabilities in the network.
 
 ## Supported Versions
 
