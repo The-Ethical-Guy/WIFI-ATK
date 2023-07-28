@@ -53,4 +53,4 @@ python3 wifi-atk.py
 ```
 
 # Screenshot
-<img alt="wifi-atk" src="github/icons/sc.png" height="40%" width="100%" />
+<img alt="wifi-atk" src=".github/icons/sc.png" height="40%" width="100%" />
