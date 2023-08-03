@@ -22,7 +22,7 @@ the <a href="https://www.youtube.com/@eblis-tools">youtube channel</a> and the
  <li>Information Disclosure Attack</li>
  <li>WIFI Dos Attack</li>
  <li>Scan By Netdiscover</li>
- <li>Creat Fake WIFI Network</li>
+ <li>Create Fake WIFI Network</li>
  </ul>
 
 # WIFI-ATK how to install and use
