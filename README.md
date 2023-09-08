@@ -34,7 +34,7 @@ apt update
 apt install git
 ```
 ```
-git clone https://github.com/EBLIS-TOOLS/WIFI-ATK.git
+git clone https://github.com/The-Ethical-Guy/WIFI-ATK.git
 ```
 ```
 cd WIFI-ATK
